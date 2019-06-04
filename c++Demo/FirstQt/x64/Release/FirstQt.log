@@ -1,0 +1,27 @@
+﻿  Uic'ing FirstQt.ui...
+  Uic'ing Test.ui...
+  Rcc'ing FirstQt.qrc...
+  Moc'ing FirstQt.h...
+   RCC: Warning: No resources in 'E:\缁冧範Demo\c++Demo\FirstQt\FirstQt.qrc'.
+  Moc'ing finddialog.h...
+  finddialog.cpp
+  FirstQt.cpp
+  main.cpp
+  Test.cpp
+e:\练习demo\c++demo\firstqt\main.cpp(3): warning C4067: 预处理器指令后有意外标记 - 应输入换行符 (编译源文件 main.cpp)
+e:\练习demo\c++demo\firstqt\main.cpp(4): warning C4067: 预处理器指令后有意外标记 - 应输入换行符 (编译源文件 main.cpp)
+e:\练习demo\c++demo\firstqt\main.cpp(5): warning C4067: 预处理器指令后有意外标记 - 应输入换行符 (编译源文件 main.cpp)
+e:\练习demo\c++demo\firstqt\main.cpp(6): warning C4067: 预处理器指令后有意外标记 - 应输入换行符 (编译源文件 main.cpp)
+e:\练习demo\c++demo\firstqt\main.cpp(7): warning C4067: 预处理器指令后有意外标记 - 应输入换行符 (编译源文件 main.cpp)
+e:\练习demo\c++demo\firstqt\main.cpp(8): warning C4067: 预处理器指令后有意外标记 - 应输入换行符 (编译源文件 main.cpp)
+  qrc_FirstQt.cpp
+  moc_FirstQt.cpp
+  moc_finddialog.cpp
+e:\练习demo\c++demo\firstqt\finddialog.cpp(3): warning C4067: 预处理器指令后有意外标记 - 应输入换行符 (编译源文件 finddialog.cpp)
+e:\练习demo\c++demo\firstqt\finddialog.cpp(4): warning C4067: 预处理器指令后有意外标记 - 应输入换行符 (编译源文件 finddialog.cpp)
+e:\练习demo\c++demo\firstqt\finddialog.cpp(5): warning C4067: 预处理器指令后有意外标记 - 应输入换行符 (编译源文件 finddialog.cpp)
+e:\练习demo\c++demo\firstqt\finddialog.cpp(6): warning C4067: 预处理器指令后有意外标记 - 应输入换行符 (编译源文件 finddialog.cpp)
+e:\练习demo\c++demo\firstqt\finddialog.cpp(7): warning C4067: 预处理器指令后有意外标记 - 应输入换行符 (编译源文件 finddialog.cpp)
+e:\练习demo\c++demo\firstqt\finddialog.cpp(8): warning C4067: 预处理器指令后有意外标记 - 应输入换行符 (编译源文件 finddialog.cpp)
+e:\练习demo\c++demo\firstqt\finddialog.cpp(9): warning C4067: 预处理器指令后有意外标记 - 应输入换行符 (编译源文件 finddialog.cpp)
+  FirstQt.vcxproj -> E:\练习Demo\c++Demo\x64\Release\FirstQt.exe
